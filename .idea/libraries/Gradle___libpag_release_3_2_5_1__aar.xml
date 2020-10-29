@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :libpag_release_3.2.5.1:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libpag_release_3.2.5.1.aar/b79c8446b817fa1c76567eefe13f5fa1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libpag_release_3.2.5.1.aar/b79c8446b817fa1c76567eefe13f5fa1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libpag_release_3.2.5.1.aar/b79c8446b817fa1c76567eefe13f5fa1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
